@@ -1,0 +1,3 @@
+[submodule "serverpod_googleSignIn"]
+	path = serverpod_googleSignIn
+	url = https://github.com/ajay-k07/serverpod_googleSignIn.git
